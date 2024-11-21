@@ -1,0 +1,6 @@
+[submodule "Consensus-Paxos"]
+	path = Consensus-Paxos
+	url = https://github.com/diogojarodrigues/Consensus-Paxos
+[submodule "State-Machine"]
+	path = State-Machine
+	url = https://github.com/diogojarodrigues/State-Machine
